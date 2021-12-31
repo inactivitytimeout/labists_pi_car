@@ -1,4 +1,4 @@
-![](./assets/raspi_smart_car_amazon.png)
+![](./assets/car_pic.png)
 
 # Python Jupyter Notebook Quick Start for Labists Raspberry Pi Smart Car Kit
 
