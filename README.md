@@ -4,11 +4,6 @@
 
 The Labists Raspberry Pi Smart Car Kit is a programmable toy car controlled by a Raspberry Pi. I got one for Christmas! The car was neat, but missing some key technical documentation and features needed to graduate beyond driving it around with the phone.
 
-Links:
-
-- [Labists.com - product link](https://labists.com/products/raspberry-pi-smart-car-kit)
-- [Labists.com - firmware download](https://labists.com/blogs/download/raspberry-pi-robot-car)
-- [Amazon.com](https://www.amazon.com/dp/B09MJZYVFT/)
 
 ## Why Is This Git Repo Useful?
 
@@ -87,3 +82,10 @@ The Technical.md document includes technical information for motor control and s
 - I2C values for motor and sensor control
 
 [Technical.md Link](./Technical.md)
+
+
+## Links
+
+- [Labists.com - product link](https://labists.com/products/raspberry-pi-smart-car-kit)
+- [Labists.com - firmware download](https://labists.com/blogs/download/raspberry-pi-robot-car)
+- [Amazon.com](https://www.amazon.com/dp/B09MJZYVFT/)
