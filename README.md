@@ -2,7 +2,7 @@
 
 # Python Jupyter Notebook Quick Start for Labists Raspberry Pi Smart Car Kit
 
-The Labists Raspberry Pi Smart Car Kit is a programmable toy car controlled by a Raspberry Pi. I got one for Christmas! The car was neat, but missing some key technical documentation and features needed to graduate beyond driving it around with the phone.
+The Labists Raspberry Pi Smart Car Kit is a programmable toy car controlled by a Raspberry Pi. I got one from Santa! The car was neat, but missing some key technical documentation and features needed to graduate beyond driving it around with the phone.
 
 
 ## Why Is This Git Repo Useful?
@@ -23,7 +23,7 @@ Until then, some technical details and notes from my trial and error experience 
 
 ## Getting Started
 
-The car's pi must be on a local wifi network with access to the internet. This is not the default configuration and takes some work.
+To download Python packages and run Jupyter notebooks, the car's pi must be on a local wifi network, with access to the internet. This is not the default configuration and takes some work.
 
 ### Option 1 - Use the Supplied SD Card Image
 
