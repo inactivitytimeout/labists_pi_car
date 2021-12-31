@@ -13,6 +13,7 @@ The default car kit only comes with a pre-baked SD image for the raspberry pi. O
 
 Smart Car Kit Limitations:
 
+- The supplied pi image does not connect to your local wifi - makes it's own unsecured wifi network
 - Phone app requires connecting directly to car's unsecured wifi network (for camera) or bluetooth
 - Included pi os image comes from an unknown source
 - Difficult to locate and use the car's Python source code
