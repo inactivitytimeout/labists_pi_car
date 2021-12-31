@@ -13,13 +13,11 @@ The default car kit only comes with a pre-baked SD image for the raspberry pi. O
 
 Smart Car Kit Limitations:
 
-- No manufacturer documented procedure to log in, access, and modify Python code on the pi using the default image
 - Phone app requires connecting directly to car's unsecured wifi network (for camera) or bluetooth
 - Included pi os image comes from an unknown source
-- Little technical documentation provided beyond basic hardware setup
-- Difficult to locate and use the car Python source code
+- Difficult to locate and use the car's Python source code
 
-Hopefully the manufacturer will add additional technical content and a source code repository in the future as the product matures.
+Hopefully the manufacturer will add additional documentation content, and a source code repository in the future as the product matures.
 
 Until then, some technical details and notes from my trial and error experience are captured here.
 
