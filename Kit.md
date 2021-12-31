@@ -23,11 +23,13 @@ Assuming you have the missing components, the included instructions were suffici
 
 ### What's Good
 
-- The car's design looks better than others on the market
+- The car's aesthetic design, with the black top cover, looks nicer than others on the market
 
-- $80 price is reasonable
+- $80 price is reasonable for a kit
 
-- Fairly easy to assemble, program, and customize car behavior
+- Fairly easy to assemble
+  
+- You can program and customize car behavior in Python with some extra work
 
 ### Complaints
 
@@ -35,4 +37,6 @@ Assuming you have the missing components, the included instructions were suffici
 
 - Too little torque at low speed to move the car. This makes processing video and obstacle detection difficult. Better would be slow, higher torque motors running around 125RPM or so.
 
-- Ultrasonic sensor is fixed facing front. It would be better on a servo to pan left and right.
+- Ultrasonic sensor is fixed facing front. It would be nicer to have a servo to pan left and right.
+
+- Camera tilt servo is way too sensitive - small adjustments jerk it back and forth 
