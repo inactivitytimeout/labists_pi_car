@@ -1,23 +1,21 @@
 # Technical Notes
 
-I took some notes while figuring out how to control the car in my own Python code. 
-
+I took some notes while figuring out how to control the car in Python.
 
 ## Controller Board Block Diagram
 
 ![](./assets/block_diagram.png)
 
-
 Datasheets
+
 - [STM32F103RCT6 Arm 32-bit microcontroller](./datasheets/stm32f103rct6.en.CD00191185.pdf)
 - [HR8833 Motor Controller](./datasheets/HR8833_Datasheet_EN_V2.1.pdf)
 
-
 ## Motor Control and Sensors
 
-
 ### Ultrasonic Sensor
-This sensor uses the Pi GPIO. 
+
+This sensor uses the Pi GPIO.
 
 ```
 Echo: GPIO5
@@ -79,8 +77,8 @@ I2C Values:
 ## Camera
 
 The car leverages mjpg-streamer for video display:
-- https://github.com/jacksonliam/mjpg-streamer
 
+- https://github.com/jacksonliam/mjpg-streamer
 
 Build
 
@@ -92,8 +90,8 @@ sudo apt-get install cmake libjpeg9-dev gcc g++
 make
 ```
 
-
 Starting the video web server:
+
 ```
 sudo LD_LIBRARY_PATH=`pwd` ./mjpg_streamer -i "./input_uvc.so -d /dev/video0" -o "./output_http.so -p 8080 -w ./www" &
 ```
