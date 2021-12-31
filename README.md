@@ -15,7 +15,6 @@ Smart Car Kit Limitations:
 
 - The supplied pi image does not connect to your local wifi - makes it's own unsecured wifi network
 - Phone app requires connecting directly to car's unsecured wifi network (for camera) or bluetooth
-- Included pi os image comes from an unknown source
 - Difficult to locate and use the car's Python source code
 
 Hopefully the manufacturer will add additional documentation content, and a source code repository in the future as the product matures.
