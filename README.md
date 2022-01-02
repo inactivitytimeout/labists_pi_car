@@ -7,7 +7,7 @@ The Labists Raspberry Pi Smart Car Kit is a programmable toy car controlled by a
 
 ## Why Is This Git Repo Useful?
 
-This repo makes experimenting and programming the Labists Smart Car easier. It organizes missing technical details and simple Python Jupyter Notebook examples for learning and experimentation in one place.
+This repo makes experimenting and programming the Labists Smart Car easier. It organizes missing technical details and simple Python [Jupyter Notebook examples](https://github.com/inactivitytimeout/labists_pi_car/tree/main/examples) for learning and experimentation in one place.
 
 The default car kit only comes with a pre-baked SD image for the raspberry pi. Out of the box, the image only supports a phone app, and requires a bluetooth or unsecured wifi connection direct to the car.
 
