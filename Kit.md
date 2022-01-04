@@ -35,7 +35,7 @@ Assuming you have the missing components, the included instructions were suffici
 
 - Lack of a standard 18650 battery mount is unfortunate. An old 10000 mAh lipo phone backup battery velcroed to the bottom worked reasonably well for me.
 
-- Too little torque at low speed to move the car. This makes processing video and obstacle detection difficult. Better would be slow, higher torque motors running around 125RPM or so.
+- Too little torque at low speed to move the car. This makes processing video and obstacle detection difficult. Better would be slow, higher torque motors running around 50RPM or so.
 
 - Ultrasonic sensor is fixed facing front. It would be nicer to have a servo to pan left and right.
 
