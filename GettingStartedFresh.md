@@ -67,6 +67,9 @@ pip install smbus2
 pip install notebook
 ```
 
+> **Note** If you see `fatal error: Python.h: No such file or directory` you are missing the Python headers. For Ubuntu or Debian, `sudo apt-get install python3-dev`.
+See: https://stackoverflow.com/questions/21530577/fatal-error-python-h-no-such-file-or-directory
+
 8 - Start Jupyter Notebook
 
 ```
